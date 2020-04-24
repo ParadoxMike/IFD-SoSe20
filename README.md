@@ -1,2 +1,2 @@
-# IFD-SoSe20
-Suff for Interface Design SoSe20
+# Interface Design Kurs SoSe2020 Linkliste und Readme
+von Mike Blank
