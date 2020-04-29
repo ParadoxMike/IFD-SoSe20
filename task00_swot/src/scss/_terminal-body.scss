@@ -1,0 +1,10 @@
+.terminal-body {
+    background-color: $c-terminal-bg;
+    padding: 1rem;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: calc(100% - 22px);
+    font-family: $monospace-family;
+}

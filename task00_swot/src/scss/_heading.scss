@@ -1,0 +1,26 @@
+.heading {
+    font-weight: 500;
+    color: $c-text-main;
+
+    &_main {
+        font-size: $heading-size-main;
+        margin: 0 0 1rem 0;
+    }
+
+    &_author {
+        font-weight: 300;
+        font-size: $heading-size-author;
+        margin: 0 0 2.5em 0;
+    }
+
+    &_secondary {
+        font-size: $heading-size-secondary;
+        margin: 0 0 1.5rem;
+    }
+
+    &--excerpt {
+        @include media-breakpoint-down(sm) {
+            display: none;
+        }
+    }
+}

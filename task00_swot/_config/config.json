@@ -1,0 +1,18 @@
+{
+   "settings": {
+      "host": ""
+   },
+   "js": {
+      "pathSrc": ["../src/js/globals/**.js", "../src/js/**.js"],
+      "pathSrcVendor": "../src/js/vendor/**.js",
+      "pathDest": "../assets/js",
+      "pathDestVendor": "../assets/js/vendor",
+      "pathDestMaps": "../../maps"
+   },
+   "css": {
+      "pathSrc": ["../src/scss/style.scss"],
+      "pathSrcForMinify": "../assets/css/style.css",
+      "pathDest": "../assets/css",
+      "pathDestMaps": "./maps"
+   }
+}
