@@ -1,2 +1,1 @@
-# Interface Design Kurs SoSe2020 Linkliste und Readme
-von Mike Blank
+### [TASK 00 | SWOT-Analyse](https://paradoxmike.github.io/IFD-SoSe20/task00_swot/)
