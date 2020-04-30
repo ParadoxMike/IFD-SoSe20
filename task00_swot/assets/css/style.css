@@ -3885,4 +3885,13 @@ html {
   left: -1.5rem;
 }
 
+.list > li > a {
+  color: #55ff12;
+  transition: color 0.15s ease-in-out;
+}
+
+.list > li > a:hover {
+  color: #0433ff;
+}
+
 /*# sourceMappingURL=maps/style.css.map */

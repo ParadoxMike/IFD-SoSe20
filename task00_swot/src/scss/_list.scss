@@ -16,5 +16,14 @@
             top: 0;
             left: -1.5rem;
         }
+
+        & > a {
+            color: $c-text-main;
+            transition: color 0.15s ease-in-out;
+
+            &:hover {
+                color: $c-text-secondary;
+            }
+        }
     }
 }
