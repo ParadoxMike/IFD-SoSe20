@@ -17,10 +17,4 @@
         font-size: $heading-size-secondary;
         margin: 0 0 1.5rem;
     }
-
-    &--excerpt {
-        @include media-breakpoint-down(sm) {
-            display: none;
-        }
-    }
 }

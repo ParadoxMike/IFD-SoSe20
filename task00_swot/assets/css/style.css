@@ -3829,12 +3829,6 @@ html {
   margin: 0 0 1.5rem;
 }
 
-@media (max-width: 767.98px) {
-  .heading--excerpt {
-    display: none;
-  }
-}
-
 .paragraph {
   font-size: 1rem;
   line-height: 1.4;
@@ -3849,17 +3843,46 @@ html {
   text-align: center;
 }
 
-.swot-cta__s, .swot-cta .swot-cta__w, .swot-cta .swot-cta__o, .swot-cta .swot-cta__t {
+.swot-cta__item {
   display: inline-block;
   transition: transform 0.15s ease-in-out;
 }
 
 @media (min-width: 768px) {
-  .swot-cta__s:hover, .swot-cta .swot-cta__w:hover, .swot-cta .swot-cta__o:hover, .swot-cta .swot-cta__t:hover {
+  .swot-cta__item:hover {
     transform: scale(1.2) translateY(-0.5rem);
     cursor: pointer;
     transition: transform 0.15s ease-in-out;
   }
+}
+
+.swot-text {
+  margin: 0 0 3rem 0;
+}
+
+.swot-text__item {
+  display: none;
+}
+
+.list {
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #55ff12;
+  margin: 0 0 0 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.list > li {
+  margin-left: 1.5rem;
+  position: relative;
+}
+
+.list > li::before {
+  content: '>';
+  position: absolute;
+  top: 0;
+  left: -1.5rem;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
