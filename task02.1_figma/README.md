@@ -1,5 +1,5 @@
 # Prototyping-Tool Vorstellung Figma
-#### vom Mike Blank und Yannis Friedrich
+#### von Mike Blank und Yannis Friedrich
 ---
 
 ## Allgemeine Punkte zu Figma
@@ -23,10 +23,10 @@ Figma eignet sich sowohl für Low- als auch High-Fidelity Anwendungen. So könne
 In Figma können durchaus Prototypen mit hohem Reifegrad erstellt werden, also z.B. Simulierte Apps inklusive Animationen etc. Diese Funktionalität ist jedoch optional, man muss also keinen derart Ausgefeilten Prototypen erstellen und kann sich auch nur auf rudimentäre Kern Features der Anwendung konzentrieren und diese Später ausbauen. Somit ist Figma für den Prototypen weg vom Low- zum High-Fidelity Prototypen geeignet. Dies gilt sowohl für Interaktion mit dem Prototypen als auch dem Visuellen Reifegrad. Wie bereits oben erwähnt können sowohl einfache Wireframes in Graustufen erstellt werden als auch komplexe, bereits fertig ausgefeilte UI’s.
 
 ### Wireframe:
-![GitHub Wireframe](/img/wireframe.png)
+<img src="./img/wireframe.png" alt="GitHub Wireframe"/>
 
 ### Design:
-![Photoblog Design](/img/design.png)
+<img src="./img/design.png" alt="Photoblog Design"/>
 
 Auch kollaborative Inhaltsentwicklung ist mit Figma möglich ist jedoch sicher nicht der Hauptfokus dieses Tools. So ist es möglich direkt echte Inhalte in die Designs einzubauen und durch Strukturiert aufgebaute Designs einzelne Bestandteile zu kopieren und so beispielsweise ein Layout zusammen zu bauen und mit Inhalt zu füllen jedoch sind dies keine Features die speziell für diesen Zweck entwickelt bzw. angedacht waren. Diese Aufgabe sollte bei komplexeren Projekten, wie beispielsweise einer Corperate Webseite, in andere Tools ausgelagert werden bzw. getrennt vom Designprozess von einem Texter unter Berücksichtigung des Designs übernommen werden.
 
