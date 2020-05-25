@@ -5,3 +5,5 @@
 ### [TASK 02.1 | Prototyping Tool](https://paradoxmike.github.io/IFD-SoSe20/task02.1_figma/)
 ---
 ### [TASK 02.2 | Konzeptentwurf](https://paradoxmike.github.io/IFD-SoSe20/task02.2_scribble/)
+---
+### [TASK 03 | GUI Prototyp](https://paradoxmike.github.io/IFD-SoSe20/task03_gui/)
