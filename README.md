@@ -13,3 +13,5 @@
 ### [TASK 04 | VUI Konzept](https://paradoxmike.github.io/IFD-SoSe20/task04_vui-flow/)
 ---
 ### [TASK 05 | VUI Prototyp](https://paradoxmike.github.io/IFD-SoSe20/task05_vui-artyom/)
+---
+### [TASK 05 | VUI Prototyp](https://paradoxmike.github.io/IFD-SoSe20/task06_google-cardboard/)
