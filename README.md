@@ -17,3 +17,5 @@
 ### [TASK 06 | VR Cardboard Brille](https://paradoxmike.github.io/IFD-SoSe20/task06_google-cardboard/)
 ---
 ### [TASK 07 | VR Vorlesung Storyboard sowie Video-Prototyp](https://paradoxmike.github.io/IFD-SoSe20/task07_vr-video-prototyp/)
+---
+### [TASK 08 | VR Vorlesung Hi-Fid Video-Prototyp](https://paradoxmike.github.io/IFD-SoSe20/task08_vr-hifid/)
