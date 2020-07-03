@@ -1,0 +1,19 @@
+.swot-cta {
+    font-weight: 500;
+    color: $c-text-main;
+    font-size: $swot-cta-size;
+    text-align: center;
+    
+    &__item {
+        display: inline-block;
+        transition: transform 0.15s ease-in-out;
+        &:hover {
+            @include media-breakpoint-up(md) {
+                transform: scale(1.2) translateY(-.5rem);
+                cursor: pointer;
+                transition: transform 0.15s ease-in-out;
+            }
+        }
+    }
+
+}

@@ -1,0 +1,56 @@
+.img {
+    display: block;
+    min-height: 300px;
+    background-position: center center;
+    background-size: cover;
+    transition: transform 0.15s ease-in-out;
+    
+    @include media-breakpoint-up(md) {
+        min-height: 200px;
+    }
+
+    &:hover{
+        transform: scale(1.01);
+        color: pointer;
+    }
+    
+    &_00 {
+        background-image: url(../img/00_swot.png);
+    }
+    
+    &_01 {
+        background-image: url(../img/01_wallet.png);
+    }
+    
+    &_02-1 {
+        background-image: url(../img/02-1_figma.png);
+    }
+    
+    &_02-2 {
+        background-image: url(../img/02-2_scribble.png);
+    }
+    
+    &_03 {
+        background-image: url(../img/03_gui.png);
+    }
+    
+    &_04 {
+        background-image: url(../img/04_vui-konzept.png);
+    }
+    
+    &_05 {
+        background-image: url(../img/05_vui-prot.png);
+    }
+    
+    &_06 {
+        background-image: url(../img/06_cardboard.jpg);
+    }
+    
+    &_07 {
+        background-image: url(../img/07_vr-vid.png);
+    }
+    
+    &_08 {
+        background-image: url(../img/08_vr-hifid.png);
+    }
+}
