@@ -1,0 +1,16 @@
+# Journeymans Piece
+---
+![Journeymans Piece](journeymans_piece_img_1.jpg)
+![Journeymans Piece](journeymans_piece_img_2.jpg)
+![Journeymans Piece](journeymans_piece_img_3.jpg)
+![Journeymans Piece](journeymans_piece_img_4.jpg)
+![Journeymans Piece](journeymans_piece_img_5.jpg)
+![Journeymans Piece](journeymans_piece_img_6.jpg)
+![Journeymans Piece](journeymans_piece_img_7.jpg)
+![Journeymans Piece](journeymans_piece_img_8.jpg)
+![Journeymans Piece](journeymans_piece_img_9.jpg)
+![Journeymans Piece](journeymans_piece_img_10.jpg)
+![Journeymans Piece](journeymans_piece_img_11.jpg)
+![Journeymans Piece](journeymans_piece_img_12.jpg)
+![Journeymans Piece](journeymans_piece_img_13.jpg)
+![Journeymans Piece](journeymans_piece_img_14.jpg)
