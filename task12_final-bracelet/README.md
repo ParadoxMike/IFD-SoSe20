@@ -12,4 +12,11 @@ Als Nutzergruppe des COVID-19 Abstandsarmbands wurden angehörige der Hochschule
 
 ### 1.2 Customer Journey aufgeteilt in Punkte/Schritte
 ![Customer Journey](media/customer_journey.png)
+1. Wunsch die Räumlichkeiten der Hochschule wieder zu nutzen, sowohl für Präsenzveranstaltungen als auch für Projektzwecke.
+
+2. Die Hochschule stellt als Bedingung zur Nutzung der Räumlichkeiten die Auflage ein COVID-19 Abstandsarmband zu tragen.
+
+3. Innerhalb einer Vorlesungssituation bzw. an deren Ende, beim Verlassen des Raumes, es zu einer Annäherung an den Mindestabstand kommt —> der Träger wird durch einen „Schock“ gewarnt.
+
+4. Nach der Pause bzw. zu beginn der Nächsten Vorlesung kommt es zu einer Unterschreitung des Mindestabstandes —> der Träger wird durch einen „Schock“ gewarnt und erhält eine Benachrichtigung.
 
