@@ -20,3 +20,17 @@ Als Nutzergruppe des COVID-19 Abstandsarmbands wurden angehörige der Hochschule
 
 4. Nach der Pause bzw. zu beginn der Nächsten Vorlesung kommt es zu einer Unterschreitung des Mindestabstandes —> der Träger wird durch einen „Schock“ gewarnt und erhält eine Benachrichtigung.
 
+## 2. Empirischer Nutzertest
+### 2.1 Testablauf
+Virtuelles Interview über eine Videochatplatform mit vorheriger, 10 minütiger Einführung in die Idee / das Produkt um Klärung eventueller Verständnisfragen. Anschließendes durchgehen der Nachfolgenden Fragen, sowie allgemeines Q&A und Zeit zum äußern allgemeiner Gedanken.
+
+### 2.2 Fragen
+1. Was ist ihre grundlegende Einstellung gegenüber eines COVID-19 Abstandsarmbandes?
+
+2. Würden sie es tragen um die Räumlichkeiten der Hochschule wieder nutzen zu können? Wenn nein wieso und wie könnte sich diese Einstellung ändern?
+
+3. Haben sie Angst vor Elektroschocks?
+
+4. Besitzen sie ein Smartphone und ist auf diesem die Corona App installiert?
+
+5. Welche allgemeinen Gedanken haben sie noch zum COVID-19 Abstandsarmband?
