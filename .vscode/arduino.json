@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "port": "/dev/tty.wchusbserial640",
+    "programmer": "AVRISP mkII",
+    "sketch": "task12_final-bracelet/code.ino"
+}

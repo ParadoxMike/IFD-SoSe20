@@ -93,6 +93,39 @@ Virtuelles Interview über eine Videochatplatform mit vorheriger, 10 minütiger 
 
 ### 2.5 Top-Findings
 * Schockstärke muss gering genug sein
-* Zuverlässige Funktion
 * Alternative Warnmethode zum Schock
 * App-Integration
+
+## 3. Prototyp Enhancement
+### 3.1 Verbesserungspunkte
+1. Schockstärke im Bereich eine Piezoelements (elektrisches Feuerzeug)
+2. Alternative Warnmethode zum Schock, Ton, Vibration oder Lichtsignal
+3. Integration in eine App, Möglicherweise die "Corona App"
+
+### 3.2 Prototypenbau Armband
+#### 1. Maßnehmen am Handgelenk
+![Handgelenk](media/prototype_01.jpg)
+
+#### 2. Aufzeichen und ausschneiden eines Armbandes auf Karton
+![Aufzeichnen](media/prototype_02.jpg)
+
+#### 3. Einpassen des Arduinos
+![Einpassen](media/prototype_03.jpg)
+
+#### 4. Aufkleben und Verlöten der LEDs
+![Aufkleben](media/prototype_04.jpg)
+
+#### 5. Verlöten der LEDs mit dem Arduinos
+![Verlöten](media/prototype_05.jpg)
+
+#### 6. Verkleben des Arduinos
+![Aufkleben](media/prototype_06.jpg)
+
+#### 7. Funktionstest mit Example-Code
+<video controls width="100%"> 
+    <source src="./media/prototype_07.mp4" type="video/mp4"> 
+    <a href="./media/prototype_07.mp4">Zum Video</a>
+</video>
+
+#### 8. Codeing
+![Codeing](media/prototype_08.png)
