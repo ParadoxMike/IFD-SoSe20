@@ -165,8 +165,11 @@ void loop() {
 }
 ```
 
-### 3.3 Video-Prototyp
+### 3.3 Video-Prototyp (Armband)
 <video controls width="100%"> 
     <source src="./media/prototype_09.mp4" type="video/mp4"> 
     <a href="./media/prototype_09.mp4">Zum Video</a>
 </video>
+
+### 3.4 App Benachrichtigung (Photoshop)
+![WarnBand App](media/prototype_10.png)
