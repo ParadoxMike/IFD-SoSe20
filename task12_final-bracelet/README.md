@@ -59,7 +59,7 @@ Virtuelles Interview über eine Videochatplatform mit vorheriger, 10 minütiger 
 5. "Eine sehr gute & lustige Idee, für extra Lacher & Regeleinhaltung würde ich vorschlagen, den Schock stärker zu machen wenn man sich in offensichtlich offenen & vermeidbaren Orten aufhält, damit sich jeder daran hält."
 
 #### Proband Drei
-1. "Generell eine gute Idee um konstant an das Abstandhalten erinnert zu werden. Aber bei Vorlesungen lässt sich bei normaler Teilnehmeranzahl denke ich keine 2m Abstand halten und dann wäre das etwas hinderlich, außer die Teilnehmeranzahl in Vorlesungen begrenzt werden. Außerdem wäre es nervig in Situationen, wo nur der Arm den Abstand unterschreitet, zb beim Übergeben von Gegenständen und allgemein in Notfallsituationen wäre es sehr hinderlich, je nachdem wie stark dieser Schock dann ist. GEnnerell würde ich einen einfachen Signalton präferieren"
+1. "Generell eine gute Idee um konstant an das Abstandhalten erinnert zu werden. Aber bei Vorlesungen lässt sich bei normaler Teilnehmeranzahl denke ich keine 2m Abstand halten und dann wäre das etwas hinderlich, außer die Teilnehmeranzahl in Vorlesungen begrenzt werden. Außerdem wäre es nervig in Situationen, wo nur der Arm den Abstand unterschreitet, zb beim Übergeben von Gegenständen und allgemein in Notfallsituationen wäre es sehr hinderlich, je nachdem wie stark dieser Schock dann ist. Ggnnerell würde ich einen einfachen Signalton präferieren"
 
 2. "Also wenn dies die Voraussetzung wäre, auf jeden Fall"
 
@@ -79,3 +79,8 @@ Virtuelles Interview über eine Videochatplatform mit vorheriger, 10 minütiger 
 4. "Ja und Nein."
 
 5. "Ich halte es für eine durchaus durchführbare Idee zum Schutz von sich selbst und den Kommilitonen, jedoch bezweifle ich das dadurch wieder Präsenzunterricht möglich wird. Zumindest würde ich selbst dennoch nicht an Präsenzveranstaltungen teilnehmen wollen da mir das Risiko bei derartigen Menschenansammlungen immer noch zu hoch ist."
+
+### 2.4 Findings
+
+
+### 2.5 Top-Findings
