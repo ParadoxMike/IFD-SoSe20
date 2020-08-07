@@ -24,4 +24,6 @@
 ---
 ### [TASK 10 | COVID-19 Abstandsarmband](https://paradoxmike.github.io/IFD-SoSe20/task10_corona-bracelet/)
 ---
+### [TASK 11 | Futuristic Interfaces](https://paradoxmike.github.io/IFD-SoSe20/task11_futuristic/)
+---
 ### [TASK 12 | COVID-19 Abstandsarmband - Endabgabe](https://paradoxmike.github.io/IFD-SoSe20/task12_final-bracelet/)
