@@ -130,7 +130,7 @@ Virtuelles Interview über eine Videochatplatform mit vorheriger, 10 minütiger 
 #### 8. Codeing
 ![Codeing](media/prototype_08.png)
 Quellcode:
-`
+```
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 2           //pin on which the LED-Data line is connected
@@ -163,4 +163,4 @@ void loop() {
     }
     first = false;
 }
-`
+```
