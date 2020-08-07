@@ -175,4 +175,4 @@ Mangels Zeit und Ressourcen Konnte wurde das Armband selbst als Hybrid aus Pap- 
 
 ### 3.4 App Benachrichtigung (Photoshop)
 ![WarnBand App](media/prototype_10.png)
-Wie Oben schon angesprochen ist eine Benachrichtigung per App angemacht wenn 1,5m Abstand unterschritten werden. Ferner hat sich auch ein Proband eine Integration in die „Corona App“ gewünscht. Dies soll diese Illustration eines Smartphone Benachrichtigungsbildschirms verdeutlichen. Hier bekommt der Student den Hinweis den Sicherheitsabstand zu einem Anderen Studenten unterschritten zu haben.
+Wie Oben schon angesprochen ist eine Benachrichtigung per App angedacht wenn 1,5m Abstand unterschritten werden. Ferner hat sich auch ein Proband eine Integration in die „Corona App“ gewünscht. Dies soll diese Illustration eines Smartphone Benachrichtigungsbildschirms verdeutlichen. Hier bekommt der Student den Hinweis den Sicherheitsabstand zu einem Anderen Studenten unterschritten zu haben.
