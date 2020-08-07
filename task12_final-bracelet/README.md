@@ -81,9 +81,9 @@ Virtuelles Interview über eine Videochatplatform mit vorheriger, 10 minütiger 
 5. "Ich halte es für eine durchaus durchführbare Idee zum Schutz von sich selbst und den Kommilitonen, jedoch bezweifle ich das dadurch wieder Präsenzunterricht möglich wird. Zumindest würde ich selbst dennoch nicht an Präsenzveranstaltungen teilnehmen wollen da mir das Risiko bei derartigen Menschenansammlungen immer noch zu hoch ist."
 
 ### 2.4 Findings
-* Schock geringer als ein Weidezaun.
+* Schock sollte geringer als der eines Weidezauns.
 * Probanden besitzen Smartphones, jedoch nutzt nur die Hälfte die „Corona App“.
-* Möglicher Missbrach um andere zu ärgern.
+* Möglicher Missbrach um Andere zu ärgern.
 * Unsicherheit über technische Zuverlässigkeit.
 * Zufälliges oder versehentliches anschlagen des Armbandes, vor allem in Situationen in denen ein Part nichts für die Unterschreitung kann. Zum Beispiel eine Engstelle auf dem gang wenn eine Person nicht wartet.
 * Möglicherweise Verstärkung des Schocks in Situationen in denen ein Unterschreiten des Mindestabstandes sehr einfach zu vermeiden gewesen währe, zum Beispiel ein offener Platz oder breiter Gang.
@@ -92,3 +92,7 @@ Virtuelles Interview über eine Videochatplatform mit vorheriger, 10 minütiger 
 * Eventuell Integration in die „Corona App“
 
 ### 2.5 Top-Findings
+* Schockstärke muss gering genug sein
+* Zuverlässige Funktion
+* Alternative Warnmethode zum Schock
+* App-Integration
