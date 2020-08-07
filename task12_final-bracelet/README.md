@@ -127,6 +127,7 @@ Virtuelles Interview über eine Videochatplatform mit vorheriger, 10 minütiger 
     <a href="./media/prototype_07.mp4">Zum Video</a>
 </video>
 
+
 #### 8. Codeing
 ![Codeing](media/prototype_08.png)
 Quellcode:
@@ -170,6 +171,8 @@ void loop() {
     <source src="./media/prototype_09.mp4" type="video/mp4"> 
     <a href="./media/prototype_09.mp4">Zum Video</a>
 </video>
+Mangels Zeit und Ressourcen Konnte wurde das Armband selbst als Hybrid aus Pap- und Videoprototyp umgesetzt. Außerdem Besteht als sichtbare „Warnmethode“ nur ein LED-Streifen welcher abhängig vom Abstand die Farbe ändert. Grün für Abstände größer als 2m, Orange für Abstände zwischen 2m und 1,5m und rot für Abstände unter 1m. Außerdem wird im Videoprototypen ein Schock Simuliert.
 
 ### 3.4 App Benachrichtigung (Photoshop)
 ![WarnBand App](media/prototype_10.png)
+Wie Oben schon angesprochen ist eine Benachrichtigung per App angemacht wenn 1,5m Abstand unterschritten werden. Ferner hat sich auch ein Proband eine Integration in die „Corona App“ gewünscht. Dies soll diese Illustration eines Smartphone Benachrichtigungsbildschirms verdeutlichen. Hier bekommt der Student den Hinweis den Sicherheitsabstand zu einem Anderen Studenten unterschritten zu haben.
